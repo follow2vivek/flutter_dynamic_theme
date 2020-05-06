@@ -9,6 +9,4 @@ Implementation tutorial can be found at - [App With Flutter](https://www.appwith
 - [SharedPreference](https://pub.dev/packages/shared_preferences)
 
 ## Screenshots
-
-<img src="./screenshots/flutter-dynamic-theme-light.png"/>
-<img src="./screenshots/flutter-dynamic-theme-dark.png"/>
+<img src="./screenshots/flutter-dynamic-theme-light.png" height="500em"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./screenshots/flutter-dynamic-theme-dark.png" height="500em"/>
